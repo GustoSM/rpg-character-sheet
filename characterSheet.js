@@ -1,5 +1,5 @@
 const data = {
-  name: 'Roberto',
+  name: '',
   player: 'Ryan',
   occupation: 'Caçador',
   age: 21,
@@ -42,11 +42,7 @@ const data = {
   ],
   attributes: [
     {
-      type: 'Aparência',
-      amount: 10,
-    },
-    {
-      type: 'Constituição',
+      type: 'Ataque',
       amount: 10,
     },
     {
@@ -54,31 +50,11 @@ const data = {
       amount: 10,
     },
     {
-      type: 'Educação',
+      type: 'Carisma',
       amount: 10,
     },
     {
-      type: 'Força',
-      amount: 10,
-    },
-    {
-      type: 'Inteligência',
-      amount: 10,
-    },
-    {
-      type: 'Poder',
-      amount: 10,
-    },
-    {
-      type: 'Sorte',
-      amount: 10,
-    },
-    {
-      type: 'Movimento',
-      amount: 10,
-    },
-    {
-      type: '?',
+      type: 'Inteligencia',
       amount: 10,
     },
   ],
